@@ -145,6 +145,7 @@
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="execjs (v2.7.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.3.7, rbenv: 2.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="httparty (v0.13.7, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.7.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.6.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.1.1, rbenv: 2.3.0) [gem]" level="application" />
@@ -159,6 +160,7 @@
     <orderEntry type="library" scope="PROVIDED" name="mongoid (v5.0.2, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mongoid-rspec (v3.0.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.12.1, rbenv: 2.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.5.5, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.8, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="origin (v2.2.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pkg-config (v1.1.7, rbenv: 2.3.0) [gem]" level="application" />
@@ -172,6 +174,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rake (v11.2.2, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.2.2, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ref (v2.0.0, rbenv: 2.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="responders (v2.2.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec (v3.5.0, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.5.2, rbenv: 2.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.5.0, rbenv: 2.3.0) [gem]" level="application" />
